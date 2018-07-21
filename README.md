@@ -11,6 +11,6 @@ Concurrent processes,
 
 Deadlock, 
 
-File systems, Security, Networks
+File systems, 
 
 Memory management
